@@ -1,3 +1,4 @@
+function toggleMob(){document.getElementById('mobpan').classList.toggle('on')}
 
 const DESKS={distributor:{label:"Become a distributor",desk:"Commercial — Distribution"},
  supplier:{label:"Supply to Stallion",desk:"Group Procurement"},
